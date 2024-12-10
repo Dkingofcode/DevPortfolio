@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Broomstick
+* source:	https://sketchfab.com/3d-models/stylized-broomstick-ba2dc348a8b2446185341d42c849d1da
+* author:	trashart (https://sketchfab.com/trash-art)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Broomstick" (https://sketchfab.com/3d-models/stylized-broomstick-ba2dc348a8b2446185341d42c849d1da) by trashart (https://sketchfab.com/trash-art) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

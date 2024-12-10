@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mountains [Free]
+* source:	https://sketchfab.com/3d-models/mountains-free-617ed5ca842e4f1896023e33e35a506a
+* author:	Ploobert (https://sketchfab.com/Ploobert)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mountains [Free]" (https://sketchfab.com/3d-models/mountains-free-617ed5ca842e4f1896023e33e35a506a) by Ploobert (https://sketchfab.com/Ploobert) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Owl
+* source:	https://sketchfab.com/3d-models/owl-f54db6b8e26f427b9ba93ca993dc234a
+* author:	Horton (https://sketchfab.com/Horton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Owl" (https://sketchfab.com/3d-models/owl-f54db6b8e26f427b9ba93ca993dc234a) by Horton (https://sketchfab.com/Horton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
